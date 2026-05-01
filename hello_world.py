@@ -1,3 +1,3 @@
 #Print Hello World! for Git practice
 
-print("Hello World!")
+print("Git is awesome!")
